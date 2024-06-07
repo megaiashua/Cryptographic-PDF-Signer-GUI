@@ -3,7 +3,17 @@
 Let's you invisibly sign PDF documents with a pfx or p12 (pkcs12) certificate
 It signs the document using the PAdES-BASELINE-B signature format
 
-# Prerequisites
+You can check the signature validation from the generated PDFs with:
+
+- https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/validation (use it just for test purposes, the files attached there are sent to EU Gov servers)
+- Acrobat
+
+# Recommended use
+
+Run the executable file found in the releases section.
+In case that you do not want to use the executable you can find the instructions below in order to run the script with python.
+
+# Prerequisites for running the script
 
 Add Python and Python scripts to PATH
 
@@ -17,7 +27,7 @@ Doesn't need to be python 3.11, newer versions should work too.
 Open CMD and add these libraries
 
 ```
-pip install Cryptography
+pip install cryptography
 pip install endesive
 ```
 
