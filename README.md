@@ -1,11 +1,14 @@
 # Cryptographic-PDF-Signer-GUI
 
+![alt text](https://imgur.com/a/897PZ4c)
+
 Let's you invisibly sign PDF documents with a pfx or p12 (pkcs12) certificate
 It signs the document using the PAdES-BASELINE-B signature format
 
 You can check the signature validation from the generated PDFs with:
 
 - https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/validation (use it just for test purposes, the files attached there are sent to EU Gov servers)
+- Microsoft Edge tells you automatically, but other browsers should give you the information as well
 - Acrobat
 
 # Recommended use for Windows users
