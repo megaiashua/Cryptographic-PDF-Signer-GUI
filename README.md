@@ -21,7 +21,7 @@ You can check the signature validation from the generated PDFs with:
 
 Run the executable file found in releases.
 
-If you run the .exe through VirusTotal it may show 10 warnings of malware, those are false positives because the code is not signed, I will have to send a report to those AV companies claiming false positives.
+If you run the .exe through VirusTotal it may show 10+ warnings of malware, those are false positives because the code is not signed. I will have to send a report to those AV companies claiming false positives.
 
 In case that you do not want to use the executable or have a different OS you can find the instructions below in order to run the script with python.
 
