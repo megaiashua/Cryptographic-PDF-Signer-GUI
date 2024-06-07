@@ -10,9 +10,7 @@ You can check the signature validation from the generated PDFs with:
 
 # Recommended use for Windows users
 
-Run the executable file in the link below.
-
-https://pixeldrain.com/u/pS9DMzx4
+Run the executable file found in releases.
 
 If you run the .exe through VirusTotal it may show 10 warnings of malware, those are false positives because the code is not signed, I will have to send a report to those AV companies claiming false positives.
 
