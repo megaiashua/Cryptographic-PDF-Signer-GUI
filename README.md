@@ -10,8 +10,8 @@ You can check the signature validation from the generated PDFs with:
 
 # Recommended use
 
-Run the executable file found in the releases section.
-In case that you do not want to use the executable you can find the instructions below in order to run the script with python.
+Run the executable file fow Windows found in the releases section.
+In case that you do not want to use the executable or have a different OS you can find the instructions below in order to run the script with python.
 
 # Prerequisites for running the script
 
