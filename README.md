@@ -34,7 +34,7 @@ pip install endesive
 In case pip fails, try updating pip or use
 
 ```
-python -m pip install Cryptography
+python -m pip install cryptography
 python -m pip install endesive
 ```
 
