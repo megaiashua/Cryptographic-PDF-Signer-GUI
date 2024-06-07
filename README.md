@@ -10,7 +10,7 @@ You can check the signature validation from the generated PDFs with:
 
 # Recommended use for Windows users
 
-Run the executable file fow Windows in the link below.
+Run the executable file in the link below.
 
 https://pixeldrain.com/u/pS9DMzx4
 
