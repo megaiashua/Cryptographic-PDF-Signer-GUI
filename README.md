@@ -8,7 +8,7 @@ You can check the signature validation from the generated PDFs with:
 - https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/validation (use it just for test purposes, the files attached there are sent to EU Gov servers)
 - Acrobat
 
-# Recommended use
+# Recommended use for Windows users
 
 Run the executable file fow Windows in the link below.
 
