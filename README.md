@@ -1,8 +1,11 @@
 # Cryptographic-PDF-Signer-GUI
 
+
+
 <p align="center">
   <img src="https://i.imgur.com/YztWmfE.png" />
 </p>
+
 
 
 Let's you invisibly sign PDF documents with a pfx or p12 (pkcs12) certificate
