@@ -11,7 +11,17 @@ C:\Users\USER\AppData\Local\Programs\Python\Python311
 
 C:\Users\USER\AppData\Local\Programs\Python\Python311\Scripts
 
+
 ```
 pip install Cryptography
 pip install endesive
 ```
+
+In case pip fails, try updating pip or use
+
+```
+python -m pip install Cryptography
+python -m pip install endesive
+```
+
+After those libraries are installed, just run the signer1.0.py scrip
