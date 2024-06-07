@@ -11,6 +11,9 @@ C:\Users\USER\AppData\Local\Programs\Python\Python311
 
 C:\Users\USER\AppData\Local\Programs\Python\Python311\Scripts
 
+Doesn't need to be python 3.11, newer versions should work too.
+
+
 Open CMD and add these libraries
 
 ```
