@@ -8,6 +8,7 @@ It signs the document using the PAdES-BASELINE-B signature format
 Add python and python scripts to PATH
 
 C:\Users\USER\AppData\Local\Programs\Python\Python311
+
 C:\Users\USER\AppData\Local\Programs\Python\Python311\Scripts
 
 ```
