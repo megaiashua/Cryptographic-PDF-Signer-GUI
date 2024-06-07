@@ -10,7 +10,10 @@ You can check the signature validation from the generated PDFs with:
 
 # Recommended use
 
-Run the executable file fow Windows found in the releases section.
+Run the executable file fow Windows in the link below.
+
+https://pixeldrain.com/u/9iLSfUFc
+
 In case that you do not want to use the executable or have a different OS you can find the instructions below in order to run the script with python.
 
 # Prerequisites for running the script
