@@ -5,12 +5,13 @@ It signs the document using the PAdES-BASELINE-B signature format
 
 # Prerequisites
 
-Add python and python scripts to PATH
+Add Python and Python scripts to PATH
 
 C:\Users\USER\AppData\Local\Programs\Python\Python311
 
 C:\Users\USER\AppData\Local\Programs\Python\Python311\Scripts
 
+Open CMD and add these libraries
 
 ```
 pip install Cryptography
@@ -25,3 +26,5 @@ python -m pip install endesive
 ```
 
 After those libraries are installed, just run the signer1.0.py scrip
+
+I don't know the specifics to setup Python on Linux or MacOS, if you know how to please tell me.
