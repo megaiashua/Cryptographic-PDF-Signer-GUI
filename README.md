@@ -1,6 +1,6 @@
 # Cryptographic-PDF-Signer-GUI
 
-https://imgur.com/a/897PZ4c
+![alt text](https://i.imgur.com/YztWmfE.png)
 
 Let's you invisibly sign PDF documents with a pfx or p12 (pkcs12) certificate
 It signs the document using the PAdES-BASELINE-B signature format
